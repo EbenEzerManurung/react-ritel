@@ -253,9 +253,11 @@ Add screenshots of:
 
 screenshots:
 
+# \# Lighthouse
+<img width="805" height="253" alt="image" src="https://github.com/user-attachments/assets/5497d753-cd71-40dd-9ed3-35b29776d95f" />
+
 # \# Dashboard
 
-PWA:
 # <img width="1911" height="873" alt="image" src="https://github.com/user-attachments/assets/9fcdee6f-be9d-4923-abe4-66df79da4361" />
 <img width="1888" height="886" alt="image" src="https://github.com/user-attachments/assets/f52387c2-61b3-4cb0-8d7b-670e5443495b" />
 
