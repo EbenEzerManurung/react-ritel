@@ -2,6 +2,17 @@
 
 A modern retail management system built with React.js and Vite, designed to help businesses manage customers, products, and sales transactions efficiently through a responsive and user-friendly interface.
 
+## Backend API
+
+This application is designed to work with a Golang REST API backend for data management, authentication, and database operations.
+
+To connect this frontend application to the backend service, please refer to the following repository:
+
+Backend API Repository:
+https://github.com/EbenEzerManurung/API_GOLANG
+
+The Golang API provides database connectivity, authentication services, customer management, product management, transaction processing, and other business-related operations required by the React Ritel application.
+
 ![React](https://img.shields.io/badge/React-19.2-blue)
 ![Vite](https://img.shields.io/badge/Vite-Latest-purple)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-38BDF8)
