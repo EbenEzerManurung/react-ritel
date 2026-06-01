@@ -242,15 +242,13 @@ Add screenshots of:
 
 screenshots:
 
-```Dashboard
-<img width="1911" height="873" alt="image" src="https://github.com/user-attachments/assets/9fcdee6f-be9d-4923-abe4-66df79da4361" />
+# \# Dashboard
+
+# <img width="1911" height="873" alt="image" src="https://github.com/user-attachments/assets/9fcdee6f-be9d-4923-abe4-66df79da4361" />
 
 ```
 
 ---
 
-
-
----
 
 
