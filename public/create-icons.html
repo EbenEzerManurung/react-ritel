@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head><title>Create Icons</title></head>
+<body>
+<h1>Click button to create all icons</h1>
+<button onclick="createAllIcons()">Create All Icons</button>
+<script>
+function createAllIcons() {
+    const sizes = [72, 96, 128, 144, 152, 192, 384, 512];
+    sizes.forEach(size => {
+        const canvas = document.createElement('canvas');
+        canvas.width = size;
+        canvas.height = size;
+        const ctx = canvas.getContext('2d');
+        ctx.fillStyle = '#3B82F6';
+        ctx.fillRect(0, 0, size, size);
+        ctx.fillStyle = '#FFFFFF';
+        ctx.font = `bold ${size/2}px Arial`;
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText('R', size/2, size/2);
+        const link = document.createElement('a');
+        link.download = `icon-${size}.png`;
+        link.href = canvas.toDataURL();
+        link.click();
+    });
+    // Favicon
+    const canvas16 = document.createElement('canvas');
+    canvas16.width = 16;
+    canvas16.height = 16;
+    const ctx16 = canvas16.getContext('2d');
+    ctx16.fillStyle = '#3B82F6';
+    ctx16.fillRect(0, 0, 16, 16);
+    ctx16.fillStyle = '#FFFFFF';
+    ctx16.font = 'bold 10px Arial';
+    ctx16.textAlign = 'center';
+    ctx16.textBaseline = 'middle';
+    ctx16.fillText('R', 8, 8);
+    const link16 = document.createElement('a');
+    link16.download = 'favicon.ico';
+    link16.href = canvas16.toDataURL();
+    link16.click();
+    alert('All icons downloaded! Save them to public folder');
+}
+</script>
+</body>
+</html>
