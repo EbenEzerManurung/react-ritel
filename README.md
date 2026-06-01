@@ -229,14 +229,6 @@ npm run dev
 
 ---
 
-## Production Build
-
-```bash
-npm run build
-```
-
-
-
 ## Screenshots
 
 Add screenshots of:
@@ -248,10 +240,11 @@ Add screenshots of:
 * Transaction Page
 * Transaction History
 
-Example:
+screenshots:
 
-```md
-![Dashboard](./screenshots/dashboard.png)
+```Dashboard
+<img width="1911" height="873" alt="image" src="https://github.com/user-attachments/assets/9fcdee6f-be9d-4923-abe4-66df79da4361" />
+
 ```
 
 ---
