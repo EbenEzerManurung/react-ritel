@@ -245,10 +245,15 @@ screenshots:
 # \# Dashboard
 
 # <img width="1911" height="873" alt="image" src="https://github.com/user-attachments/assets/9fcdee6f-be9d-4923-abe4-66df79da4361" />
+<img width="1888" height="886" alt="image" src="https://github.com/user-attachments/assets/f52387c2-61b3-4cb0-8d7b-670e5443495b" />
+
+
+# \# Customer
+
+# <img width="1888" height="948" alt="image" src="https://github.com/user-attachments/assets/2ae44abc-9142-4a77-b915-44764e575cd2" />
+
 
 ```
-
----
 
 
 
