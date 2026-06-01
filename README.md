@@ -244,6 +244,7 @@ screenshots:
 
 # \# Dashboard
 
+PWA:
 # <img width="1911" height="873" alt="image" src="https://github.com/user-attachments/assets/9fcdee6f-be9d-4923-abe4-66df79da4361" />
 <img width="1888" height="886" alt="image" src="https://github.com/user-attachments/assets/f52387c2-61b3-4cb0-8d7b-670e5443495b" />
 
@@ -252,6 +253,14 @@ screenshots:
 
 # <img width="1888" height="948" alt="image" src="https://github.com/user-attachments/assets/2ae44abc-9142-4a77-b915-44764e575cd2" />
 
+# \# Produk
+<img width="1896" height="952" alt="image" src="https://github.com/user-attachments/assets/642c1f4c-9350-441d-82c3-6aee2d18a28d" />
+
+# \# Transaksi
+<img width="1893" height="951" alt="image" src="https://github.com/user-attachments/assets/e3467735-7584-44fb-8dc8-73a14206957f" />
+
+# \# Riwayat Transaksi (Transaction history)
+<img width="1888" height="943" alt="image" src="https://github.com/user-attachments/assets/2f41fb3a-e1f8-4c3f-81b2-cc95d0fe4a26" />
 
 ```
 
