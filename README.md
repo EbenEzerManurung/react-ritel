@@ -1,6 +1,6 @@
 # React Ritel
 
-A modern retail management system built with React.js and Vite, designed to help businesses manage customers, products, and sales transactions efficiently through a responsive and user-friendly interface.
+A modern retail management system built with React.js 19.2 and Vite, designed to help businesses manage customers, products, and sales transactions efficiently through a responsive and user-friendly interface.
 
 ## Backend API
 
